@@ -96,6 +96,11 @@ Uber-Data-Analysis-Tableau-Dashboard/
 ├── Uber_Dataset_Analysis_Dashboard.twbx
 ├── Uber_dataset.xlsx
 ├── Uber_Dataset_Analysis_Dashboard.png
+├── Uber_Dataset_Analysis_Dashboard(1).png
+├── Uber_Dataset_Analysis_Dashboard(2).png
+├── Uber_Dataset_Analysis_Dashboard(3).png
+├── Uber_Dataset_Analysis_Dashboard(4).png
+├── Uber_Dataset_Analysis_Dashboard(5).png
 ├── Uber_Dataset_Analysis_Dashboard.mp4
 └── README.md
 ```
