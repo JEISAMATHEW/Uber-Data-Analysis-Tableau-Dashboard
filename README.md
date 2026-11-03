@@ -105,7 +105,12 @@ Uber-Data-Analysis-Tableau-Dashboard/
 └── README.md
 ```
 
----
+## 🖼️ Screenshots
+
+**Uber Dataset Analysis Dashboard**
+
+![Uber Dataset Analysis Dashboard](Uber_Dataset_Analysis_Dashboard.png)
+
 
 ### 📌 Project Deliverables
 
@@ -113,8 +118,3 @@ Uber-Data-Analysis-Tableau-Dashboard/
 - Cleaned, geocoded dataset (`.xlsx`) with derived fields for reporting
 - Dashboard screenshot and video walkthrough
 
----
-
-### 🔗 Connect
-
-[Jeisa Mathew LinkedIn](https://www.linkedin.com/in/jeisamathew/) • [GitHub](https://github.com/JEISAMATHEW)
